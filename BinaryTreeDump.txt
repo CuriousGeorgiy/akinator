@@ -1,0 +1,60 @@
+{}
+{1.0.0.0}
+{ENG}
+[
+?white?
+    [
+    ?small?
+        [
+        ?funny?
+            [
+            ?can bite?
+                [
+                `mouse`
+                ]
+                [
+                `lol`
+                ]
+            ]
+            [
+            `mouse`
+            ]
+        ]
+        [
+        ?cold?
+            [
+            `ice-cream`
+            ]
+            [
+            ?big?
+                [
+                ?wings?
+                    [
+                    `plane`
+                    ]
+                    [
+                    `polar bear`
+                    ]
+                ]
+                [
+                `cat`
+                ]
+            ]
+        ]
+    ]
+    [
+    ?black?
+        [
+        ?sweet?
+            [
+            `chocolate`
+            ]
+            [
+            `dog`
+            ]
+        ]
+        [
+        `Unknown who`
+        ]
+    ]
+]
